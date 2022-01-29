@@ -10,7 +10,7 @@ I'm Lachlan Mann (23), Currently I'm based in 42 Adelaide (have a absolute passi
     - Patience is needed with C
     - The more ways you can write a set of code, the better 
         (create a coding style unique to you but also effective)
-    - If in doubt - research/trial and error
+    - If in doubt - research/(trial and error)
 
 My interests are in...
 
