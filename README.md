@@ -17,15 +17,15 @@ My interests are in...
     - Netball: Mixed B grade
     - Gaming: Currently Total War Warhammer 2
     
-## Current Projects
+# Current Projects
 
 This Git account will host a combination of 42 projects that are concurrent (finished and work in progress (WiP)) as well as side hustle projects (most will be work in progress (WiP)).
 
-# Primary 42 Project
+## Primary 42 Project
     - Born2Beroot
     - ft_printf(being evaluated)
     
-# Secondary Projects
+## Secondary Projects
     - Bug Tracker (using functions within libft and printf) that can be operated through the bash
         - creating sub functions (fprintf, fopen, fclose)
 
