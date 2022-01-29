@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm Lachlan Mann (23), Currently I'm based in 42 Adelaide (have a absolute passion for it.) and currently studying C and looking into python and javascript
+I'm Lachlan Mann (23), Currently I'm based in 42 Adelaide (have a absolute passion for it.) and currently studying C and looking into python and javascript.
 
 ## Coding Ethos
 
