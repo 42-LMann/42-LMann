@@ -13,6 +13,7 @@ I'm Lachlan Mann (23), Currently I'm based in 42 Adelaide (have a absolute passi
     - If in doubt - research/trial and error
 
 My interests are in...
+
     - Reading: Currently "lost Connection" by Johann Hari
     - Netball: Mixed B grade
     - Gaming: Currently Total War Warhammer 2
