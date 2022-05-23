@@ -1,4 +1,4 @@
-![software Dev caddette](https://github.com/42-LMann/42-LMann/blob/main/Blue%20Modern%20Geometric%20LinkedIn%20Banner%20(3).png)
+![software Dev caddette](https://github.com/42-LMann/42-LMann/blob/main/Blue%20Modern%20Geometric%20LinkedIn%20Banner%20(4).png)
 
 
 # Lachlan Mann
