@@ -5,7 +5,7 @@
 
 I'm Lachlan Mann (24), Currently I'm based in 42 Adelaide (have a absolute passion for it.) and currently studying C and looking into python and javascript.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42-LMann)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42-LMann)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Coding Ethos
 
