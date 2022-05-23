@@ -13,7 +13,10 @@ I'm Lachlan Mann, Currently I'm based in 42 Adelaide (have an absolute passion f
 - 💬 Ask me about Non - Fiction, Natural Health and War Thunder 
 - 📫 How to reach me: 42Lmann@gmail.com 
 
-The 42 projects will be available for your viewing, just reference it back to me depend how much you use.
+## 42 Projects
+
+The 42 projects will be available for your viewing, just reference it back to me depend how much you use. 
+The 42 projects are tailored to be a learning tool so will show you how the function/program works but likely won't pass moulinette due to the addition of (ft_printf and error statements) and comments
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/42-LMann)  
 
