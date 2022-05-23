@@ -1,9 +1,11 @@
-# Lachlan Mann - 42 Student
+# Lachlan Mann - 42 Student / software Dev caddette
 
 
 ## About Me
 
-I'm Lachlan Mann (23), Currently I'm based in 42 Adelaide (have a absolute passion for it.) and currently studying C and looking into python and javascript.
+I'm Lachlan Mann (24), Currently I'm based in 42 Adelaide (have a absolute passion for it.) and currently studying C and looking into python and javascript.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42-LMann)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Coding Ethos
 
@@ -16,21 +18,16 @@ My interests are in...
 
     - Reading: Currently "lost Connection" by Johann Hari
     - Netball: Mixed B grade
-    - Gaming: Currently Total War Warhammer 2
+    - Gaming: factorio
     
 # Current Projects
 
-This Git account will host a combination of 42 projects that are concurrent (finished and work in progress (WiP)) as well as side hustle projects (most will be work in progress (WiP)).
+This Git account will host a combination of 42 projects that are concurrent (finished and work in progress (WiP)).
 
 ## Primary 42 Project
-    - Born2Beroot
-    - ft_printf(being evaluated)
-    
-## Secondary Projects
-    - Bug Tracker (using functions within libft and printf) that can be operated through the bash
-        - creating sub functions (fprintf, fopen, fclose)
+    - Philosophers
 
-The 42 projects will be avaliable for your viewing, I just ask for you to not out right plagiarise and ask before hand for the larger projects. The side hustle projects will be released to the individual upon request.
+The 42 projects will be avaliable for your viewing, I just ask for you to not out right plagiarise and ask before hand for the larger projects.
 
 Contact details
 
